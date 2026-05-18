@@ -8,6 +8,12 @@ Enter a text color and background color and it will calculate:
 
 It also provides an accessible preview and a copyable CSS snippet.
 
+## What this is for
+
+- Quickly validating text/background color choices before shipping a UI
+- Helping designers/developers meet WCAG AA/AAA targets
+- A small portfolio project that shows accessible form design and useful calculations
+
 ## Features
 
 - Computes contrast ratio using WCAG relative luminance
